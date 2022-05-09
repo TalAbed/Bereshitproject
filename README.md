@@ -29,4 +29,4 @@
 אנו מגיעים לפני הירח במהירות של מטר לשנייה, עם 20 ליטר דלק נותרים.
 ניתן למצוא את הקוד בגיטהאב שלנו בקישור : https://github.com/TalAbed/Bereshitproject.git
 
-•	בתיקיית הגיטהאב ניתן למצוא [מחברת פייתון] (https://github.com/TalAbed/Bereshitproject/blob/main/graph.ipynb) שבה גרפים המציגים באופן ויזואלי את נחיתת החללית.
+•	בתיקיית הגיטהאב ניתן למצוא [מחברת פייתון](https://github.com/TalAbed/Bereshitproject/blob/main/graph.ipynb) שבה גרפים המציגים באופן ויזואלי את נחיתת החללית.
