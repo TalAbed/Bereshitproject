@@ -1,4 +1,4 @@
-# Bereshitproject
+# BereshitProject
 
 <p align="center">
     מטלה 2 – דו"ח סיכום
